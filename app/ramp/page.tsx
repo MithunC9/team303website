@@ -21,7 +21,7 @@ export default function RampPage() {
             <div className="text-[#008080] font-semibold">President</div>
           </div>
           <div className="bg-white shadow rounded-lg p-6 text-center border-2 border-[#008080]">
-            <div className="text-xl font-bold mb-2">Mamata Vaidya</div>
+            <div className="text-xl font-bold mb-2">Christine Radimer</div>
             <div className="text-[#008080] font-semibold">Vice President</div>
           </div>
           <div className="bg-white shadow rounded-lg p-6 text-center border-2 border-[#008080]">
