@@ -32,6 +32,12 @@
       "title": "FRC Team Mentoring",
       "description": "We mentor FRC Team 8588 year-round, helping with everything from design and machining to competition prep. Our team supports them with CNC work, improving their mechanical build, and troubleshooting issues as they come up. We also provide programming help and assist with outreach events, new opportunities, and team growth so they can keep leveling up all season long.",
       "image": "8588-pic.jpeg"
+    },
+    {
+      "id": "girls-who-code",
+      "title": "Girls Who Code",
+      "description": "Over the past year, the school’s Girls Who Code club faced significant challenges after its advisor stepped away, creating administrative barriers that threatened the club’s continuation. The club’s president, who is also a member of Team 303, reached out to the robotics team for support. In response, Team 303 worked together to provide resources, a consistent meeting space, and access to the team’s advisor so the club could continue operating. Through the team’s support and collaboration, Girls Who Code was successfully revived and has since held multiple meetings, continuing to create opportunities for students to explore computer science and programming.",
+      "image": "GirlsWhoCODEPIC.jpg"
     }
   ],
   "steam_outreach": [
@@ -53,7 +59,8 @@
     {
       "id": "ai",
       "title": "303.ai",
-      "description": "We’re also running 303.ai, an AI webinar for students in grades 4–12. We’ll cover what AI actually is, why it matters, and how to use tools like chatbots the right way. We’ll show good prompting, talk about what AI can and can’t do, and how to use it for school and robotics. It’s short, practical, and meant to make AI feel useful, not confusing."
+      "description": "We’re also running 303.ai, an AI webinar for students in grades 4–12. We’ll cover what AI actually is, why it matters, and how to use tools like chatbots the right way. We’ll show good prompting, talk about what AI can and can’t do, and how to use it for school and robotics. It’s short, practical, and meant to make AI feel useful, not confusing.",
+      "image": "303.aiPIC.jpg"
     },
     {
       "id": "brik",
@@ -67,9 +74,9 @@
     },
     {
       "id": "3dprint",
-      "title": "3D Printed Toys and Devices",
-      "description": "We work with the local nonprofit Empower3D to design, 3D print, and help ship assistive tools and sensory toys for neurodiverse individuals. Using CAD lets us quickly customize the size, shape, and texture to fit real needs, then print and test fast. The goal is simple: create useful, calming tools that actually help people day-to-day.",
-      "image": "303-fidget.jpeg"
+      "title": "3D3 Toys and Devices",
+      "description": "We design, 3D print, and help ship assistive tools and sensory toys for neurodiverse individuals. Using CAD lets us quickly customize the size, shape, and texture to fit real needs, then print and test fast. The goal is simple: create useful, calming tools that actually help people day-to-day.",
+      "image": "Empower3dpic.jpg"
     }
     
   ],
@@ -81,8 +88,9 @@
     },
     {
       "id": "bricks",
-      "title": "Bridgewater Bricks over Borders",
-      "description": "BridgewaterBricks is Team 303’s community drive to collect used LEGO/building bricks. All the community has to do is drop clean bricks at the BRHS main office box, and we’ll sort and ship them through a partner nonprofit to kids in underserved communities in the U.S. and abroad (e.g., Haiti, Zimbabwe). Do you want to help more? You can also sponsor shipping (about $20 per box). Please email us for more information."
+      "title": "Bricks over Borders",
+      "description": "Bricks over Borders is Team 303’s community drive to collect used LEGO and building bricks and turn them into opportunities for kids who need them most. Community members drop clean bricks at BRHS, and we sort and ship them through a partner nonprofit to underserved communities in the U.S. and abroad. Through this effort, we have raised over 50 pounds of bricks and expanded to 9+ schools and organizations by placing drop boxes and hosting local collection events.",
+      "image": "Bridgewater Bricks over Border.jpeg"
     },
     {
       "id": "hospital",
@@ -93,11 +101,6 @@
       "id": "4h",
       "title": "4H Fair + Forest Fest",
       "description": "Team 303 actively participates in local community events to promote STEM education and environmental awareness. At the Somerset County 4-H Fair, the team showcases their robotics projects, sharing insights and engaging with attendees to inspire interest in science and technology. Similarly, during Forest Fest at Hillside Intermediate School, Team 303 demonstrates their robots and hosts the Solar Car competition, encouraging young minds to explore sustainable energy solutions."
-    },
-    {
-      "id": "serves",
-      "title": "303 Serves Those Who Serve",
-      "description": "303 Serves Those Who Serve is Team 303’s care-package drive for deployed service members. Students, mentors, and friends donate requested essentials, and we bundle them and pass them through our veterans contact for overseas shipment."
     },
     {
       "id": "recruit",
